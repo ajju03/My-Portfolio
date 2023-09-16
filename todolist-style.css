@@ -26,8 +26,8 @@
 }
 
 .container:hover{
-    box-shadow:0 0 5px whitesmoke,
-     0 0 25px whitesmoke; 
+    box-shadow:0 0 5px black,
+     0 0 25px black; 
 }
 
 .container h2{
